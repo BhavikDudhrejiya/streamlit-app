@@ -1,0 +1,5 @@
+ffmpy==0.3.0
+deepface==0.0.74
+mtcnn==0.1.1
+opencv-python-headless==4.6.0.66
+matplotlib==3.5.2
